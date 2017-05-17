@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Avocode 2.6.0 - http://avocode.com -->
+<svg height="62" width="63" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 62">
+    <path stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke="#979797" fill="#646464" fill-rule="evenodd" d="M 30.75 60 C 47.04 60 60.25 46.79 60.25 30.5 C 60.25 14.21 47.04 1 30.75 1 C 14.46 1 1.25 14.21 1.25 30.5 C 1.25 46.79 14.46 60 30.75 60 Z M 30.75 60" />
+    <path fill="#646464" fill-rule="evenodd" d="M 31.25 62 C 48.37 62 62.25 48.12 62.25 31 C 62.25 13.88 48.37 0 31.25 0 C 14.13 0 0.25 13.88 0.25 31 C 0.25 48.12 14.13 62 31.25 62 Z M 31.25 62" />
+    <path stroke-linejoin="miter" stroke-linecap="butt" stroke-width="1" stroke="#767676" fill="#d8d8d8" fill-rule="evenodd" d="M 28.98 44.06 C 31.11 45.04 33.48 45.58 35.98 45.58 C 45.22 45.58 52.71 38.16 52.71 29 C 52.71 26.79 52.28 24.68 51.48 22.76 L 40.46 32.34 C 38.37 34.15 35.21 33.93 33.4 31.85 L 31.19 29.3 C 29.37 27.21 29.59 24.05 31.68 22.24 L 41.79 13.45 C 39.98 12.78 38.02 12.42 35.98 12.42 C 26.74 12.42 19.25 19.84 19.25 29 C 19.25 30.04 19.35 31.05 19.53 32.03 L 5.61 40.73 L 13.68 53.63 L 28.98 44.06 Z M 28.98 44.06" />
+</svg>
