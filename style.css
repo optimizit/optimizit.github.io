@@ -312,10 +312,12 @@ button {
     #wrapper-inside {
         padding-bottom: 3.5rem;
     }
+/*
     body, html {
         overflow-x: hidden;
         overflow-y: hidden;
     }
+*/
 }
 @media (max-width: 576px) {
     #home-list {
