@@ -31,8 +31,14 @@ a {
 }
 #header img {
     vertical-align: middle;
-    max-height: 15em;
+    max-height: 170px;
+    max-width: 316px;
     width: 50%;
+    height: auto;
+/*
+    max-width: 430px;
+    height: auto;
+*/
 }
 #navbar {
     margin: 0 auto;
@@ -307,17 +313,13 @@ button {
     }
     #header img {
         vertical-align: middle;
-        max-height: 15em;
     }
     #wrapper-inside {
         padding-bottom: 3.5rem;
     }
-/*
-    body, html {
-        overflow-x: hidden;
-        overflow-y: hidden;
+    .item img {
+        padding-bottom: 9rem;
     }
-*/
 }
 @media (max-width: 576px) {
     #home-list {
@@ -344,6 +346,9 @@ button {
     }
     #form-text {
         display: none;
+    }
+    .item img {
+        padding-bottom: 5rem;
     }
 }
 @media (max-width: 990px) {
