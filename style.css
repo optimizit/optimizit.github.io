@@ -167,7 +167,7 @@ a {
     margin-right: auto;
     margin-left: auto;
 }
-#contact form div {
+#contact form .form-control {
     margin-bottom: 7px;
 }
 #contact form button {
