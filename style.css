@@ -303,6 +303,13 @@ button {
 #confirmation h4 {
     padding-bottom: 30px;
 }
+#confirmation p {
+    font-size: 1.3em;
+}
+#confirmation p a {
+    color: #333333;
+    text-decoration: underline;
+}
 
 @media (min-width: 768px) {
     .footer ul > li:not(:last-child) {
